@@ -70,8 +70,7 @@ I'm a full-stack developer and AI engineer building intelligent solutions one al
   
 ![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ymaneBH&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ymaneBH&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=Text-to-SQL-Converter)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4ymaneBH&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
