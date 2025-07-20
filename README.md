@@ -11,25 +11,6 @@ I'm a full-stack developer and AI engineer building intelligent solutions one al
 
 ---
 
-## 🎯 Current Focus
-
-🔭 **Building:**
-- Text-to-SQL converter powered by transformers & FastAPI
-- Role-based CRM SaaS system with Next.js + TailwindCSS + Firebase  
-- Facial Emotion Recognition AI system using CNNs
-
-🌱 **Learning:**
-- LLMs and advanced prompt engineering
-- DevOps pipelines with GitHub Actions, Docker & Terraform
-- Cloud-native applications on AWS, GCP & Kubernetes
-
-👯 **Open to collaboration on:**
-- AI-powered applications
-- Scalable cloud projects  
-- DevOps workflows & automation
-
----
-
 ## ⚡ Languages and Tools
 
 ### Programming Languages
@@ -95,6 +76,23 @@ I'm a full-stack developer and AI engineer building intelligent solutions one al
 
 ---
 
+
+## 🎯 Current Focus
+
+🔭 **Building:**
+- Text-to-SQL converter powered by transformers & FastAPI
+- Role-based CRM SaaS system with Next.js + TailwindCSS + Firebase  
+- Facial Emotion Recognition AI system using CNNs
+
+🌱 **Learning:**
+- LLMs and advanced prompt engineering
+- DevOps pipelines with GitHub Actions, Docker & Terraform
+- Cloud-native applications on AWS, GCP & Kubernetes
+
+👯 **Open to collaboration on:**
+- AI-powered applications
+- Scalable cloud projects  
+- DevOps workflows & automation
 ## 💡 Philosophy
 
 > *"I don't just write code. I solve problems with elegant, automated solutions."*
