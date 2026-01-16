@@ -1,4 +1,4 @@
-# 🛠️ Aymane Bouhou
+#  Aymane Bouhou
 
 **AI Engineer | DevOps Enthusiast | Cloud Developer**
 
