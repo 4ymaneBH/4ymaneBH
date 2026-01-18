@@ -11,7 +11,7 @@ I'm a full-stack developer and AI engineer building intelligent solutions one al
 
 ---
 
-## ⚡ Languages and Tools
+##  Languages and Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ I'm a full-stack developer and AI engineer building intelligent solutions one al
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|---------|
@@ -64,25 +64,14 @@ I'm a full-stack developer and AI engineer building intelligent solutions one al
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ymaneBH&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4ymaneBH&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
 
 
-## 🎯 Current Focus
+##  Current Focus
 
 🔭 **Building:**
 - Text-to-SQL converter powered by transformers & FastAPI
 - Role-based CRM SaaS system with Next.js + TailwindCSS + Firebase  
-- Facial Emotion Recognition AI system using CNNs
+- Islamic- Habit tracker with React Native and expo SDK
 
 🌱 **Learning:**
 - LLMs and advanced prompt engineering
@@ -103,7 +92,7 @@ Every line of code I write serves a purpose: to make complex systems simple, rep
 
 <div align="center">
   
-**Let's build something amazing together** 🚀
+**Let's build something amazing together** 
 
 [📧 Get in touch](mailto:aymanebouhou.dev@gmail.com) • [🌐 Visit my portfolio](https://aymanebouhou.com) • [💼 Connect on LinkedIn](https://linkedin.com/in/aymane-bouhou)
 
