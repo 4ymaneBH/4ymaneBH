@@ -1,6 +1,6 @@
 #  Aymane Bouhou
 
-**AI Engineer | DevOps Enthusiast | Cloud Developer**
+**AI Engineer | DevOps | Cloud Developer**
 
 I'm a full-stack developer and AI engineer building intelligent solutions one algorithm at a time. From machine learning models to scalable cloud architectures, I craft code that solves real-world problems. I believe every repetitive task is an opportunity to automate, and every complex problem has an elegant solution waiting to be discovered.
 
