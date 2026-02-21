@@ -16,16 +16,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-I'm a **full-stack developer and AI engineer** building intelligent solutions one algorithm at a time.
+I'm a **SWE and AI engineer** building intelligent solutions one algorithm at a time.
 From machine learning models to scalable cloud architectures, I craft code that solves real-world problems.
 
-- 🔭 Currently working on a **Text-to-SQL converter** and a **Role-based CRM SaaS**
-- 🌱 Deepening my expertise in **LLMs**, **DevOps pipelines**, and **Cloud-native architecture**
-- 👯 Open to collaborating on **AI-powered apps**, **cloud projects**, and **DevOps automation**
-- 💬 Ask me about **Python**, **FastAPI**, **Docker**, **Kubernetes**, or anything AI/ML
-- ⚡ Fun fact: I believe every repetitive task is an opportunity to automate
 
 ---
 
@@ -42,17 +37,9 @@ From machine learning models to scalable cloud architectures, I craft code that 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4ymaneBH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
-### 🗣️ Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,7 +47,7 @@ From machine learning models to scalable cloud architectures, I craft code that 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🤖 AI / ML & Data Science
+###  AI / ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
@@ -68,14 +55,14 @@ From machine learning models to scalable cloud architectures, I craft code that 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -83,7 +70,7 @@ From machine learning models to scalable cloud architectures, I craft code that 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🗄️ Databases & Tools
+###  Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
@@ -115,7 +102,7 @@ From machine learning models to scalable cloud architectures, I craft code that 
 
 ---
 
-## 💡 Philosophy
+##  Philosophy
 
 > *"I don't just write code — I solve problems with elegant, automated solutions."*
 
@@ -127,7 +114,7 @@ I believe in the power of **thoughtful engineering**.
 
 <div align="center">
 
-**✨ Let's build something amazing together ✨**
+** get in touch **
 
 [![Email](https://img.shields.io/badge/📧%20Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanebouhou.dev@gmail.com)
 &nbsp;
