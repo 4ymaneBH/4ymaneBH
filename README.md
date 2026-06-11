@@ -29,18 +29,29 @@ My work spans end-to-end: from designing **LLM-powered autonomous agents** and *
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ymaneBH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Aymane's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ymaneBH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ymaneBH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ymaneBH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=4ymaneBH&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=4ymaneBH&theme=tokyonight&hide_border=true"/>
+
+</div>
 ---
+## Development Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ymaneBH&theme=tokyonight"/>
+
+</div>
 
 ## Tech Stack
 
