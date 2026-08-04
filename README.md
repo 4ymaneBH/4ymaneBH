@@ -1,8 +1,10 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Aymane+Bouhou;AI+Engineer+%7C+DevOps+%7C+Cloud+Architect;Designing+Agentic+AI+Systems;Infrastructure+as+Code+%7C+LLM+Orchestration" alt="Typing SVG" />
-
-<br/>
+<<p align="center">
+  <img
+    src="./assets/terminal-profile.svg"
+    width="100%"
+    alt="Animated terminal profile of Aymane Bouhou"
+  />
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=4ymaneBH&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/4ymaneBH)
 &nbsp;
@@ -17,8 +19,6 @@
 ---
 
 ## About Me
-
-I'm a **Software & AI Engineer** specializing in intelligent systems, agentic AI, and cloud-native infrastructure.
 
 My work spans end-to-end: from designing **LLM-powered autonomous agents** and **MCP-based toolchains** to provisioning production-grade infrastructure with **Terraform** and automating complex workflows with **n8n**. I build systems that are reliable, observable, and built to scale.
 

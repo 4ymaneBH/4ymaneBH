@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1400"
+     height="560"
+     viewBox="0 0 1400 560"
+     role="img"
+     aria-labelledby="title description">
+
+  <title id="title">Animated terminal profile for Aymane Bouhou</title>
+  <desc id="description">
+    A terminal-style GitHub profile banner with Aymane Bouhou written in ASCII art
+    and a VS Code-style about-me panel.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080c12"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#101722"/>
+    </linearGradient>
+
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#30363d"/>
+      <stop offset="50%" stop-color="#238636"/>
+      <stop offset="100%" stop-color="#30363d"/>
+    </linearGradient>
+
+    <filter id="greenGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="560" rx="20" fill="url(#background)"/>
+  <rect x="1" y="1" width="1398" height="558" rx="19"
+        fill="none" stroke="url(#border)" stroke-width="2"/>
+
+  <rect x="535" y="20" width="330" height="38" rx="9" fill="#21262d"/>
+  <text x="700" y="46"
+        text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+        font-size="18"
+        font-weight="700">aymane@github:~ $ whoami</text>
+
+  <!-- Left terminal -->
+  <rect x="28" y="82" width="650" height="450" rx="16"
+        fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="28" y="82" width="650" height="44" rx="16" fill="#161b22"/>
+  <path d="M28 110 H678" stroke="#30363d"/>
+  <circle cx="53" cy="104" r="6" fill="#ff5f56"/>
+  <circle cx="73" cy="104" r="6" fill="#ffbd2e"/>
+  <circle cx="93" cy="104" r="6" fill="#27c93f"/>
+  <text x="353" y="109"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+        font-size="13">~/profile/name.sh</text>
+
+  <!-- ASCII name -->
+  <g xml:space="preserve"
+     fill="#7ee787"
+     font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+     font-size="15"
+     font-weight="700"
+     letter-spacing="0.4">
+
+    <text x="52" y="165">    _   __   ____  ___    _   _   ____   _   _   _____
+      <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.22s" fill="freeze"/>
+    </text>
+    <text x="52" y="188">   /_\  \ \ / /  \/  /   /_\ | \ | | __| | | | | | __|
+      <animate attributeName="opacity" from="0" to="1" begin="0.62s" dur="0.22s" fill="freeze"/>
+    </text>
+    <text x="52" y="211">  / _ \  \ V /| |\/| |  / _ \|  \| | _|  | |_| | | _|
+      <animate attributeName="opacity" from="0" to="1" begin="0.79s" dur="0.22s" fill="freeze"/>
+    </text>
+    <text x="52" y="234"> /_/ \_\  |_| |_|  |_| /_/ \_\_|\__|___|  \___/  |___|
+      <animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.22s" fill="freeze"/>
+    </text>
+
+    <text x="52" y="286">  ____    ___    _   _   _   _    ___    _   _
+      <animate attributeName="opacity" from="0" to="1" begin="1.30s" dur="0.22s" fill="freeze"/>
+    </text>
+    <text x="52" y="309"> | __ )  / _ \  | | | | | | | |  / _ \  | | | |
+      <animate attributeName="opacity" from="0" to="1" begin="1.47s" dur="0.22s" fill="freeze"/>
+    </text>
+    <text x="52" y="332"> |  _ \ | | | | | |_| | | |_| | | | | | | |_| |
+      <animate attributeName="opacity" from="0" to="1" begin="1.64s" dur="0.22s" fill="freeze"/>
+    </text>
+    <text x="52" y="355"> | |_) || |_| | |  _  | |  _  | | |_| | |  _  |
+      <animate attributeName="opacity" from="0" to="1" begin="1.81s" dur="0.22s" fill="freeze"/>
+    </text>
+    <text x="52" y="378"> |____/  \___/  |_| |_| |_| |_|  \___/  |_| |_|
+      <animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.22s" fill="freeze"/>
+    </text>
+  </g>
+
+  <rect x="495" y="362" width="10" height="18" rx="2" fill="#7ee787" filter="url(#greenGlow)">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="52" y="478"
+        fill="#8b949e"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+        font-size="14">echo "Building AI agents, digital health products, and useful software."</text>
+  <text x="52" y="502"
+        fill="#c9d1d9"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+        font-size="14">$ status: learning, building, improving...</text>
+
+  <!-- Right terminal / VS code -->
+  <rect x="704" y="82" width="668" height="450" rx="16"
+        fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="704" y="82" width="668" height="44" rx="16" fill="#161b22"/>
+  <path d="M704 110 H1372" stroke="#30363d"/>
+  <circle cx="729" cy="104" r="6" fill="#ff5f56"/>
+  <circle cx="749" cy="104" r="6" fill="#ffbd2e"/>
+  <circle cx="769" cy="104" r="6" fill="#27c93f"/>
+  <text x="1038" y="109"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+        font-size="13">about-me.ts</text>
+
+  <g fill="#484f58"
+     font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+     font-size="16"
+     text-anchor="end">
+    <text x="748" y="166">1</text>
+    <text x="748" y="196">2</text>
+    <text x="748" y="226">3</text>
+    <text x="748" y="256">4</text>
+    <text x="748" y="286">5</text>
+    <text x="748" y="316">6</text>
+    <text x="748" y="346">7</text>
+    <text x="748" y="376">8</text>
+    <text x="748" y="406">9</text>
+    <text x="748" y="436">10</text>
+    <text x="748" y="466">11</text>
+  </g>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="17">
+    <text x="775" y="166">
+      <tspan fill="#ff7b72">const</tspan><tspan fill="#d2a8ff"> profile</tspan><tspan fill="#c9d1d9"> = {</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="800" y="196">
+      <tspan fill="#79c0ff">name</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Aymane Bouhou"</tspan><tspan fill="#c9d1d9">,</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="800" y="226">
+      <tspan fill="#79c0ff">role</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"AI Engineer"</tspan><tspan fill="#c9d1d9">,</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="800" y="256">
+      <tspan fill="#79c0ff">focus</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"AI Agents"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Full-Stack"</tspan><tspan fill="#c9d1d9">],</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="800" y="286">
+      <tspan fill="#79c0ff">domain</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Digital Health"</tspan><tspan fill="#c9d1d9">,</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="800" y="316">
+      <tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"Python"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"FastAPI"</tspan><tspan fill="#c9d1d9">,</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="910" y="346">
+      <tspan fill="#a5d6ff">"Next.js"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"React Native"</tspan><tspan fill="#c9d1d9">],</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="800" y="376">
+      <tspan fill="#79c0ff">building</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Useful intelligent systems"</tspan><tspan fill="#c9d1d9">,</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="800" y="406">
+      <tspan fill="#79c0ff">mindset</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Learn. Build. Improve."</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="775" y="436" fill="#c9d1d9">};
+      <animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.28s" fill="freeze"/>
+    </text>
+    <text x="775" y="466" fill="#8b949e">// Turning ideas into products.
+      <animate attributeName="opacity" from="0" to="1" begin="3.9s" dur="0.28s" fill="freeze"/>
+    </text>
+  </g>
+
+  <rect x="1084" y="451" width="10" height="18" rx="1" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="28" y="126" width="1344" height="2" fill="#2f81f7" opacity="0.08">
+    <animate attributeName="y" from="126" to="528" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
