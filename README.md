@@ -27,11 +27,6 @@ My work spans end-to-end: from designing **LLM-powered autonomous agents** and *
 - Automating business workflows end-to-end with **n8n** and Apache Airflow
 - Provisioning and managing cloud infrastructure declaratively with **Terraform**
 
----
-
----
-
----
 
 ## 📊 GitHub Analytics
 
@@ -97,37 +92,6 @@ My work spans end-to-end: from designing **LLM-powered autonomous agents** and *
 
 ---
 
-## ⚡ Development Metrics
-
-<div align="center">
-
-  <img
-    width="98%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ymaneBH&amp;theme=tokyonight&amp;animation=draw&amp;duration=2"
-    alt="Aymane Bouhou's GitHub contribution overview"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4ymaneBH&amp;theme=tokyonight&amp;animation=load&amp;duration=2"
-    alt="Aymane Bouhou's most committed languages"
-  />
-
-  <img
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4ymaneBH&amp;theme=tokyonight&amp;utcOffset=1&amp;animation=load&amp;duration=2"
-    alt="Aymane Bouhou's productive development time"
-  />
-
-</div>
-
----
 
 ## Tech Stack
 
