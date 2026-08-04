@@ -2,10 +2,8 @@ name: Update GitHub Profile Metrics
 
 on:
   schedule:
-    # Refresh every day at 03:00 UTC
     - cron: "0 3 * * *"
 
-  # Allows you to run it manually
   workflow_dispatch:
 
 jobs:
@@ -16,6 +14,10 @@ jobs:
       contents: write
 
     steps:
+      # Required so the action can commit generated files
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
       - name: Generate profile analytics
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
