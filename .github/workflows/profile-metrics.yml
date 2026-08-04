@@ -1,0 +1,31 @@
+name: Update GitHub Profile Metrics
+
+on:
+  schedule:
+    # Refresh every day at 03:00 UTC
+    - cron: "0 3 * * *"
+
+  # Allows you to run it manually
+  workflow_dispatch:
+
+jobs:
+  generate-profile-cards:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate profile analytics
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: 4ymaneBH
+          BRANCH_NAME: main
+          UTC_OFFSET: 1
+          AUTO_PUSH: true
+          THEME: tokyonight
+          ANIMATION: load
+          DURATION: 2
+          NAME: Aymane Bouhou

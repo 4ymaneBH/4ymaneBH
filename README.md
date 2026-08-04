@@ -29,29 +29,105 @@ My work spans end-to-end: from designing **LLM-powered autonomous agents** and *
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4ymaneBH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ymaneBH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=4ymaneBH&theme=tokyonight&hide_border=true"/>
-
-</div>
 ---
-## Development Metrics
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ymaneBH&theme=tokyonight"/>
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/3-stats.svg"
+  alt="Aymane Bouhou's GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+  alt="Aymane Bouhou's most committed languages"
+/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="75%"
+  src="https://streak-stats.demolab.com?user=4ymaneBH&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"
+  alt="Aymane Bouhou's GitHub contribution streak"
+/>
+
+</div>
+
+---
+
+## ⚡ Development Metrics
+
+<div align="center">
+
+<img
+  width="98%"
+  src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+  alt="Aymane Bouhou's GitHub contribution overview"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+  alt="Aymane Bouhou's repositories by language"
+/>
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+  alt="Aymane Bouhou's productive development time"
+/>
+
+</div>
+
+---
+
+## ⚡ Development Metrics
+
+<div align="center">
+
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ymaneBH&amp;theme=tokyonight&amp;animation=draw&amp;duration=2"
+    alt="Aymane Bouhou's GitHub contribution overview"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4ymaneBH&amp;theme=tokyonight&amp;animation=load&amp;duration=2"
+    alt="Aymane Bouhou's most committed languages"
+  />
+
+  <img
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4ymaneBH&amp;theme=tokyonight&amp;utcOffset=1&amp;animation=load&amp;duration=2"
+    alt="Aymane Bouhou's productive development time"
+  />
+
+</div>
+
+---
 
 ## Tech Stack
 
