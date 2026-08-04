@@ -103,17 +103,6 @@ My work spans end-to-end: from designing **LLM-powered autonomous agents** and *
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## Featured Projects
-
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:------:|
-| **[Text-to-SQL Converter](https://github.com/4ymaneBH/Text-to-SQL-Converter)** | Natural language to SQL using transformer models | Python · Transformers · FastAPI | Active |
-| **[CRM SaaS System](https://github.com/4ymaneBH/)** | Role-based customer management platform | Next.js · TailwindCSS · Firebase | Active |
-| **[Facial Emotion Recognition](https://github.com/4ymaneBH/)** | Deep learning CNN for real-time emotion classification | Python · TensorFlow · OpenCV | Complete |
-
----
 
 ## Contribution Activity
 
@@ -125,17 +114,6 @@ My work spans end-to-end: from designing **LLM-powered autonomous agents** and *
   </picture>
 </div>
 
----
-
-## Engineering Philosophy
-
-> *"Good engineering is invisible — it scales quietly, fails gracefully, and solves the right problem."*
-
-I approach every system with three principles: **automation first**, **observability by design**, and **minimal surface area**.
-Whether orchestrating autonomous AI agents or managing cloud infrastructure as code,
-I care about building things that work reliably at scale — and are a pleasure to maintain.
-
----
 
 <div align="center">
 
