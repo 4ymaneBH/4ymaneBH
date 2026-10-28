@@ -49,7 +49,7 @@ From APIs and interfaces to Terraform-managed cloud infrastructure, I work acros
 
 <img
   width="75%"
-  src="https://streak-stats.demolab.com?user=4ymaneBH&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true&ring=22C55E&fire=F97316&currStreakNum=F59E0B&currStreakLabel=FB923C&sideNums=4ADE80&sideLabels=22C55E&dates=FDBA74&stroke=00000000"
+  src="https://streak-stats.demolab.com?user=4ymaneBH&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true&ring=3B82F6&fire=F97316&currStreakNum=F97316&currStreakLabel=FB923C&sideNums=60A5FA&sideLabels=93C5FD&dates=FDBA74&stroke=00000000"
   alt="Aymane Bouhou's GitHub contribution streak"
 />
 
