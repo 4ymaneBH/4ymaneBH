@@ -7,7 +7,7 @@
 
   <title id="title">Animated terminal profile for Aymane Bouhou</title>
   <desc id="description">
-    A terminal-style GitHub profile banner with Aymane Bouhou shown as aligned, animated blue text
+    A terminal-style GitHub profile banner with Aymane Bouhou shown as aligned, animated blue ASCII terminal lettering
     and a VS Code-style about-me panel.
   </desc>
 
@@ -59,22 +59,51 @@
         font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
         font-size="13">~/profile/name.sh</text>
 
-  <!-- Animated name: real text keeps both lines aligned at any display width. -->
-  <g fill="#60a5fa"
+  <!-- FIGlet banner with fixed-width rows. -->
+  <text x="52" y="151" fill="#8b949e"
+        font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
+        font-size="14">$ figlet AYMANE BOUHOU</text>
+  <g xml:space="preserve"
+     style="white-space: pre"
+     fill="#60a5fa"
      font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
-     font-size="92"
+     font-size="24"
      font-weight="700"
-     letter-spacing="4">
-    <text x="52" y="248" opacity="0">AYMANE
-      <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.3s" fill="freeze"/>
+     letter-spacing="0">
+    <text x="52" y="183" opacity="0">&#160;&#160;&#160;&#160;_&#160;__&#160;&#160;&#160;____&#160;&#160;__&#160;&#160;&#160;&#160;_&#160;&#160;&#160;&#160;_&#160;&#160;&#160;_&#160;_____
+      <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.12s" fill="freeze"/>
     </text>
-    <text x="52" y="370" opacity="0">BOUHOU
-      <animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.3s" fill="freeze"/>
+    <text x="52" y="208" opacity="0">&#160;&#160;&#160;/&#160;\\&#160;\&#160;/&#160;/&#160;&#160;\/&#160;&#160;|&#160;&#160;/&#160;\&#160;&#160;|&#160;\&#160;|&#160;|&#160;____|
+      <animate attributeName="opacity" from="0" to="1" begin="0.61s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="233" opacity="0">&#160;&#160;/&#160;_&#160;\\&#160;V&#160;/|&#160;|\/|&#160;|&#160;/&#160;_&#160;\&#160;|&#160;&#160;\|&#160;|&#160;&#160;_|
+      <animate attributeName="opacity" from="0" to="1" begin="0.77s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="258" opacity="0">&#160;/&#160;___&#160;\|&#160;|&#160;|&#160;|&#160;&#160;|&#160;|/&#160;___&#160;\|&#160;|\&#160;&#160;|&#160;|___
+      <animate attributeName="opacity" from="0" to="1" begin="0.93s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="283" opacity="0">/_/&#160;&#160;&#160;\_\_|&#160;|_|&#160;&#160;|_/_/&#160;&#160;&#160;\_\_|&#160;\_|_____|
+      <animate attributeName="opacity" from="0" to="1" begin="1.09s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="322" opacity="0">&#160;____&#160;&#160;&#160;___&#160;&#160;_&#160;&#160;&#160;_&#160;_&#160;&#160;&#160;_&#160;&#160;___&#160;&#160;_&#160;&#160;&#160;_
+      <animate attributeName="opacity" from="0" to="1" begin="1.30s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="347" opacity="0">|&#160;__&#160;)&#160;/&#160;_&#160;\|&#160;|&#160;|&#160;|&#160;|&#160;|&#160;|/&#160;_&#160;\|&#160;|&#160;|&#160;|
+      <animate attributeName="opacity" from="0" to="1" begin="1.46s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="372" opacity="0">|&#160;&#160;_&#160;\|&#160;|&#160;|&#160;|&#160;|&#160;|&#160;|&#160;|_|&#160;|&#160;|&#160;|&#160;|&#160;|&#160;|&#160;|
+      <animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="397" opacity="0">|&#160;|_)&#160;|&#160;|_|&#160;|&#160;|_|&#160;|&#160;&#160;_&#160;&#160;|&#160;|_|&#160;|&#160;|_|&#160;|
+      <animate attributeName="opacity" from="0" to="1" begin="1.78s" dur="0.12s" fill="freeze"/>
+    </text>
+    <text x="52" y="422" opacity="0">|____/&#160;\___/&#160;\___/|_|&#160;|_|\___/&#160;\___/
+      <animate attributeName="opacity" from="0" to="1" begin="1.94s" dur="0.12s" fill="freeze"/>
     </text>
   </g>
 
-  <rect x="390" y="348" width="11" height="24" rx="2" fill="#f97316" filter="url(#cursorGlow)">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="1.5s" repeatCount="indefinite"/>
+  <rect x="552" y="404" width="10" height="20" rx="2" fill="#f97316" filter="url(#cursorGlow)">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.1s" repeatCount="indefinite"/>
   </rect>
   <text x="52" y="478"
         fill="#8b949e"
