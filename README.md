@@ -138,12 +138,21 @@ From APIs and interfaces to Terraform-managed cloud infrastructure, I work acros
 
 ---
 
-<div align="center">
-
-### Let's connect
-
-[![Email](https://img.shields.io/badge/Get%20in%20touch-EA580C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymane.h.contact@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanebouhou1/)
-
-</div>
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🤝 Open to</h3>
+      <hr />
+      <p>Consulting on AI systems — architecture through deployment — and hackathon teams. Happiest talking about agent orchestration, RAG that survives real data, and getting LLM features safe enough to ship.</p>
+      <p align="center">
+        <a href="https://substack.com/@aymanebouhou">Substack</a> ·
+        <a href="https://www.linkedin.com/in/aymanebouhou1/">LinkedIn</a> ·
+        <a href="https://x.com/aymane_bouhou1">X</a> ·
+        <a href="https://www.instagram.com/aymane_bouhou?srtk=MWU4YTYzanZvcTA5bw%3D%3D&amp;utm_source=qr">Instagram</a> ·
+        <a href="https://medium.com/@aymanebcontact1">Medium</a> ·
+        <a href="mailto:aymane.h.contact@gmail.com">aymane.h.contact@gmail.com</a>
+      </p>
+      <p align="center"><sub>Built in public from Rabat.</sub></p>
+    </td>
+  </tr>
+</table>
