@@ -22,12 +22,31 @@
 
 ## About Me
 
-My work spans end-to-end: from designing **LLM-powered autonomous agents** and **MCP-based toolchains** to provisioning production-grade infrastructure with **Terraform** and automating complex workflows with **n8n**. I build systems that are reliable, observable, and built to scale.
+<h2 align="center">Aymane Bouhou</h2>
 
-- Designing and deploying **multi-agent AI systems** using frameworks like LangGraph, CrewAI, and AutoGen
-- Building **Model Context Protocol (MCP)** servers to extend LLM capabilities with structured tool access
-- Automating business workflows end-to-end with **n8n** and Apache Airflow
-- Provisioning and managing cloud infrastructure declaratively with **Terraform**
+<p align="center"><strong>AI Engineer</strong> · Building AI agents, digital health products, and useful software</p>
+
+<p align="center">
+  <a href="https://aymanebouhou.com">Portfolio</a> ·
+  <a href="https://linkedin.com/in/aymane-bouhou">LinkedIn</a> ·
+  <a href="https://github.com/4ymaneBH?tab=repositories">Projects</a> ·
+  <a href="mailto:aymanebouhou.dev@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img alt="AI Agents" src="https://img.shields.io/badge/Focus-AI%20Agents-2563EB?style=flat-square" />
+  <img alt="MCP Toolchains" src="https://img.shields.io/badge/Build-MCP%20Toolchains-7C3AED?style=flat-square" />
+  <img alt="Full-Stack Products" src="https://img.shields.io/badge/Ship-Full--Stack%20Products-16A34A?style=flat-square" />
+  <img alt="Workflow Automation" src="https://img.shields.io/badge/Automate-n8n%20%26%20Airflow-EA580C?style=flat-square" />
+</p>
+
+### AI systems that connect models to real tools and workflows
+
+I build AI systems and full-stack products that connect language models to useful tools, automate repetitive work, and make complex workflows easier to run. That includes digital health products and software built for people who need clear, dependable results.
+
+I design and deploy multi-agent systems with LangGraph, CrewAI, and AutoGen; build Model Context Protocol (MCP) servers for structured tool access; and orchestrate workflows with n8n and Apache Airflow.
+
+From APIs and interfaces to Terraform-managed cloud infrastructure, I work across the stack to ship software that is reliable, observable, and able to grow.
 
 <div align="center">
 
