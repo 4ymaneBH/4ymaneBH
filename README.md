@@ -10,11 +10,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=4ymaneBH&label=Profile%20Views&color=16a34a&style=flat-square)](https://github.com/4ymaneBH)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-bouhou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanebouhou1/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA580C?style=flat-square&logo=gmail&logoColor=white)](mailto:aymanebouhou.dev@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://aymanebouhou.com)
+[![Email](https://img.shields.io/badge/Email-EA580C?style=flat-square&logo=gmail&logoColor=white)](mailto:aymane.h.contact@gmail.com)
 
 </div>
 
@@ -27,10 +25,9 @@
 <p align="center"><strong>AI Engineer</strong> · Building AI agents, digital health products, and useful software</p>
 
 <p align="center">
-  <a href="https://aymanebouhou.com">Portfolio</a> ·
-  <a href="https://linkedin.com/in/aymane-bouhou">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aymanebouhou1/">LinkedIn</a> ·
   <a href="https://github.com/4ymaneBH?tab=repositories">Projects</a> ·
-  <a href="mailto:aymanebouhou.dev@gmail.com">Email</a>
+  <a href="mailto:aymane.h.contact@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -145,10 +142,8 @@ From APIs and interfaces to Terraform-managed cloud infrastructure, I work acros
 
 ### Let's connect
 
-[![Email](https://img.shields.io/badge/Get%20in%20touch-EA580C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanebouhou.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Get%20in%20touch-EA580C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymane.h.contact@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://aymanebouhou.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-bouhou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanebouhou1/)
 
 </div>
